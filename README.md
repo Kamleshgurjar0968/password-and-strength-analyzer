@@ -57,14 +57,4 @@ Main features:
 Pick an option (1-6): 
 
 
-## Contributing
 
-Pull requests and improvements welcome! Please open an issue for bugs or suggestions.
-
-## License
-
-MIT License (see LICENSE file)
-
-Enjoy strong, safe passwords!
-
-You can copy-paste this README.md directly in your project. If you name the script password_vault.py, the usage instructions will be accurate. You can also add author, contact info, and links if desired.
